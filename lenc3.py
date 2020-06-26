@@ -1,4 +1,4 @@
-str=input("Enter a string:")
+str="refrigerator"
 count=0
 for s in str:
     count=count+1
